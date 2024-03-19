@@ -26,6 +26,8 @@ package main
 // The import statement always follows the `package`
 // declaration.
 
+import "fmt"
+
 func main() {
 	fmt.Println("hello world")
 }
